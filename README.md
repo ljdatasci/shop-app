@@ -1,2 +1,2 @@
 # shop-app
-React app for beauty store.
+Beauty products shopping cart.
